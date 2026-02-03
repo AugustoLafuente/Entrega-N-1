@@ -132,7 +132,7 @@ function iniciarSimulador() {
             
             if (!ingresoUsuario) 
             {
-                alert("Ha cancelado la compra. Gracias por visitar nuestra librería.");
+                alert("No ingreso ningun genero, su compra se ha cancelado. Gracias por visitar nuestra librería.");
                 return;
             }
         
